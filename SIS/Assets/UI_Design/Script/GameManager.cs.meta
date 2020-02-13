@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4a975764694c349639fd5d76f808d3ad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hpBar_F: {fileID: 2100000, guid: 3c922fac1e75743538ee69afaef40905, type: 2}
+  - hpBar_T: {fileID: 2100000, guid: 43a8b09b69c7b4a2786e6a135562681b, type: 2}
+  - playModeText: {instanceID: 0}
+  - hpText: {instanceID: 0}
+  - bulletsText: {instanceID: 0}
+  - puzzleText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
