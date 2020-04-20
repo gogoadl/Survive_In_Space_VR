@@ -7,6 +7,7 @@ VR 환경에서 공격해오는 적들을 물리치는 게임
 ## Check out the demo video on YouTube
 
  [![Video Label](http://img.youtube.com/vi/pLDmr6qjT5k/0.jpg)](https://www.youtube.com/watch?v=pLDmr6qjT5k&feature=youtu.be)
+
 <hr></hr>
 
 ## What you need to run this code 
@@ -17,6 +18,7 @@ VR 환경에서 공격해오는 적들을 물리치는 게임
 <li>HTC Vive Pro</li>
 </ul>
 <hr></hr>
+
 ## Collaborator
 
 <ul>
