@@ -20,14 +20,9 @@ public class PBulletMovement : MonoBehaviour
     void Update()
     {
         if (Vector3.Distance(PlayerTransform.position, gameObject.transform.position) > 100)
-        {
             Destroy(gameObject);
-        }
-
+     
         transform.position += transform.forward * Time.deltaTime * 50f;
-        //Vector3 dir = BulletRotation.transform.localRotation * -transform.forward;
-
-        //gameObject.transform.Translate(-transform.forward * speed * Time.deltaTime);
     }
 
     private void OnCollisionEnter(Collision collision)
